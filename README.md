@@ -5,6 +5,10 @@ Currently I am learning the JAVA language in order to develop myself in this fie
 
 I would be interested to collaborate with any type of JAVA project.
 
+my email address --> jeanpignet@gmail.com
+
+
+
 <!---
 Jpignet/Jpignet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
